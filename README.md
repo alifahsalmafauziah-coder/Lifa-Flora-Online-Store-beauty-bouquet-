@@ -8,9 +8,11 @@
 | **NIM** | 209250117 |
 | **Program Studi** | Administrasi Bisnis 6 |
 
-🔗 **Repository:** https://github.com/alifahsalmafauziah-coder/Lifa-Flora-Online-Store-bouquettt
-🛍️ **Live site (customer):** https://alifahsalmafauziah-coder.github.io/Lifa-Flora-Online-Store-bouquettt/
-🔐 **Live site (admin):** https://alifahsalmafauziah-coder.github.io/Lifa-Flora-Online-Store-bouquettt/admin/admin_login.html
+🔗 **Repository:** https://github.com/alifahsalmafauziah-coder/Lifa-Flora-Online-Store-beauty-bouquet-
+
+🛍️ **Live site (customer):**  https://alifahsalmafauziah-coder.github.io/Lifa-Flora-Online-Store-beauty-bouquet-/
+
+🔐 **Live site (admin):** https://alifahsalmafauziah-coder.github.io/Lifa-Flora-Online-Store-beauty-bouquet-/admin/admin_login.html
 
 ---
 
@@ -19,7 +21,7 @@
 **Nama Bisnis:** Lifa Flora
 
 **Deskripsi:**
-Lifa Flora adalah toko bunga online yang menjual buket bunga segar dan buket custom untuk berbagai momen spesial — ulang tahun, anniversary, wisuda, hingga hadiah personal. Pelanggan dapat memilih, memesan, dan membayar buket sepenuhnya secara online melalui website, tanpa perlu datang ke toko fisik.
+Lifa Flora adalah toko bunga online yang menjual buket bunga segar dan buket custom untuk berbagai momen spesial ulang tahun, anniversary, wisuda, hingga hadiah personal. Pelanggan dapat memilih, memesan, dan membayar buket sepenuhnya secara online melalui website, tanpa perlu datang ke toko fisik.
 
 **Value Proposition:**
 - Buket bunga segar dengan desain estetik dan siap kirim di hari yang sama (same-day delivery area Bandung)
